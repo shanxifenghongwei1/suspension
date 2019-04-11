@@ -1,5 +1,6 @@
 <com-movable content="{{movable.image}}" bind:myevent="onMyShareEvent">
   <view class="container">
-   
+			<view bindtap='consle'>我试试可以点击否？
+			</view>
   </view>
 </com-movable>

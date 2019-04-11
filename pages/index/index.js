@@ -8,6 +8,9 @@ Page({
     console.log('optionsIndex', options)
   },
   onShow: function() {},
+	consle(){
+		console.log('jiade')
+	},
   /*
    * 页面相关事件处理函数--监听用户下拉动作
    */
